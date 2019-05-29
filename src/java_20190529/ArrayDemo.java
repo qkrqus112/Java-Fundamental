@@ -62,5 +62,17 @@ public class ArrayDemo {
 			}
 			
 		}
+		
+		int[] test5 = new int[8];
+		System.arraycopy(test1, 0, test5, 0, test1.length);
+		test5[4] = 500;
+		test5[5] = 600;
+		test5[6] = 700;
+		test5[7] = 800;
+
+		for (int i : test5) {
+			System.out.println(i);
+		}
+		
 	}
 }
