@@ -6,10 +6,6 @@ public class ForDemo {
 		// int i = 1;
 
 		/*
-		 * for (; i <= 100; i += 2) { sum = sum + i; } System.out.println("1부터 "
-		 * + (i - 2) + " 까지  짝수의 합은 : " + sum);
-		 */
-		/*
 		 * for (; i <= 100; i++) { if (i % 2 == 1) { sum = sum + i; } }
 		 * System.out.println("1부터 " + (i - 1) + " 까지  짝수의 합은 : " + sum); }
 		 */
