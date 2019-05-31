@@ -1,6 +1,6 @@
 package java_20190529;
 
-public class CalenderDemo {
+public class CalendarDemo {
 	public static void main(String[] args) {
 		
 		int year = Integer.parseInt(args[0]);
