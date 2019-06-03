@@ -17,6 +17,8 @@ public class Calendar {
 		}
 		return isLeafYear;
 	}
+	
+
 
 	// 1년, 1월, 1일부터 ~ 년, 월, 일의 총일수를 구하는 메서드
 	private int getCount(int year, int month, int day) {

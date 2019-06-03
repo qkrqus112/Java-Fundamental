@@ -19,11 +19,13 @@ public class ForDemo {
 				System.out.println(j + " * " + k + " = " + j * k);
 			}
 		}
+
 		/*
 		 * int primeCnt = 0; for (int i = 1; i <= 100; i++) { int cnt = 0; for
 		 * (int j = 1; j <= i; j++) { if (i % j == 0) { cnt++; } } if (cnt == 2)
 		 * { System.out.println(i + "는 소수"); primeCnt++; } } System.out.println(
 		 * "소수의 개수는 : " + primeCnt);
 		 */
+
 	}
 }
