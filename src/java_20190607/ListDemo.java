@@ -17,7 +17,7 @@ public class ListDemo {
 			String temp = list.get(i);
 			System.out.println(temp);
 		}
-		
+
 		for (String temp : list) {
 			System.out.println(temp);
 		}

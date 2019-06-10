@@ -159,7 +159,7 @@ public class ConsoleApplication {
 
 		print();
 		String message = console("선택하세요 : ");
-		execute(message);  
+		execute(message);
 	}
 
 	public static void main(String[] args) throws IOException {
