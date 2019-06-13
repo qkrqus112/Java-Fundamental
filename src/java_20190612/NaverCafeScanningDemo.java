@@ -21,7 +21,7 @@ public class NaverCafeScanningDemo {
 		PrintWriter pw = null;
 
 		try {
-			URL url = new URL("https://blog.naver.com/PostView.nhn?blogId=apollo96&logNo=221431465155&redirect=Dlog&widgetTypeCall=true&directAccess=false");
+			URL url = new URL("http://news.jtbc.joins.com/");
 			in = url.openStream();
 			ir = new InputStreamReader(in, "UTF-8");
 			br = new BufferedReader(ir);
