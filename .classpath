@@ -11,5 +11,8 @@
 	<classpathentry kind="lib" path="C:/Users/user/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-scratchpad-4.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Downloads/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/javase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/core-3.3.4-20180529.153305-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/javase-3.3.4-20180529.153314-1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

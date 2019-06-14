@@ -8,7 +8,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
-public class InpurStreamReaderDemo {
+public class InputStreamReaderDemo {
 	public static void main(String[] args) {
 		InputStream in = null;
 		InputStreamReader ir = null;
