@@ -16,6 +16,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 public class UnicastClient implements ActionListener {
+
 	private String id;
 	private String ip;
 	private int port;
